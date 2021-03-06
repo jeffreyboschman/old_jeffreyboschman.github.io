@@ -1,3 +1,11 @@
 # Your blog
 
-This is the repository for your blog! Click *_config.yml* above to get started and fill in the details. Then click *index.md* and edit it to start creating your home page.
+This is the repository for my blog and homepage! 
+
+***
+
+Click on *_config.yml* to edit details. 
+
+***
+
+Click on *index.md* to edit the home page of [jeffreyboschman.github.io](https://jeffreyboschman.github.io).
