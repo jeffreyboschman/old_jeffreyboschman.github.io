@@ -17,7 +17,7 @@ Anyways, of course it would have been lovely if I started some high-level-noteta
 I might as well just start now, by blogging about my learning experience and how it relates to other things I've learned or what is on my mind. 
 
 It really kinda ties into one of my favourite quotes of all time: 
-> The best time to plant a tree was 20 years ago. The second best time, is now. - Chinese Proverb
+> "The best time to plant a tree was 20 years ago. The second best time, is now." - Chinese Proverb
 
 The best time for me to organize all the things I've learned and reflect on them was a long time ago; oh well, I might as well start now! 
 
