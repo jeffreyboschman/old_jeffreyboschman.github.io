@@ -11,11 +11,9 @@ Sometimes I feel like I should have started organizing my thoughts about what I 
 Instead, I just studied what I needed to know for my exams, and promptly forgot all about them (I feel like this is often the classic engineering student experience). 
 
 And I don't mean I wish I kept detailed notes about fluid dynamics or organic chemistry or anything, I just wish I kept some **summary of the key points of what I learned**. 
-My thinking is that if I memorized or had easy access to these high-level concepts, then I could easily connect new things I am learning to my existing "tree of knowledge"[^1]. From what I can tell, that's my ideal learning style.
+My thinking is that if I memorized or had easy access to these high-level concepts, then I could easily connect new things I am learning to my existing "tree of knowledge". From what I can tell, that's my ideal learning style. I think I watched a video somewhere about how Elon Musk said that's how his brain works, but whatever - I'm not doing this to copy Elon, I'm doing this for me.
 
-[^1]: I think I watched a video somewhere about how Elon Musk said that's how his brain works, but whatever - I'm not doing this to copy Elon, I'm doing this for me.
-
-Of course it would have been lovely if I started some high-level-notetaking/thought-organization system a long time ago, but there is no point in my feeling sorry about that. 
+Anyways, of course it would have been lovely if I started some high-level-notetaking/thought-organization system a long time ago, but there is no point in feeling sorry and not doing anything about it. 
 I might as well just start now, by blogging about my learning experience and how it relates to other things I've learned or what is on my mind. 
 
 It really kinda ties into one of my favourite quotes of all time: 
